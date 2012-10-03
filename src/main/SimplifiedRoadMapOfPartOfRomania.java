@@ -74,25 +74,25 @@ public class SimplifiedRoadMapOfPartOfRomania extends ExtendableMap {
 
 		// distances and directions
 		// reference location: Bucharest
-		map.setDistAndDirToRefLocation(ARAD, 91, 492);
-		map.setDistAndDirToRefLocation(BUCHAREST, 400, 327);
-		map.setDistAndDirToRefLocation(CRAIOVA, 253, 288);
-		map.setDistAndDirToRefLocation(DOBRETA, 165, 299);
-		map.setDistAndDirToRefLocation(EFORIE, 562, 293);
-		map.setDistAndDirToRefLocation(FAGARAS, 305, 449);
-		map.setDistAndDirToRefLocation(GIURGIU, 375, 270);
-		map.setDistAndDirToRefLocation(HIRSOVA, 534, 350);
-		map.setDistAndDirToRefLocation(IASI, 473, 506);
-		map.setDistAndDirToRefLocation(LUGOJ, 165, 379);
-		map.setDistAndDirToRefLocation(MEHADIA, 168, 339);
-		map.setDistAndDirToRefLocation(NEAMT, 406, 537);
-		map.setDistAndDirToRefLocation(ORADEA, 131, 571);
-		map.setDistAndDirToRefLocation(PITESTI, 320, 368);
-		map.setDistAndDirToRefLocation(RIMNICU_VILCEA, 233, 410);
-		map.setDistAndDirToRefLocation(SIBIU, 207, 457);
-		map.setDistAndDirToRefLocation(TIMISOARA, 94, 410);
-		map.setDistAndDirToRefLocation(URZICENI, 456, 350);
-		map.setDistAndDirToRefLocation(VASLUI, 509, 444);
-		map.setDistAndDirToRefLocation(ZERIND, 108, 531);
+		map.setPosition(ARAD, 91, 492);
+		map.setPosition(BUCHAREST, 400, 327);
+		map.setPosition(CRAIOVA, 253, 288);
+		map.setPosition(DOBRETA, 165, 299);
+		map.setPosition(EFORIE, 562, 293);
+		map.setPosition(FAGARAS, 305, 449);
+		map.setPosition(GIURGIU, 375, 270);
+		map.setPosition(HIRSOVA, 534, 350);
+		map.setPosition(IASI, 473, 506);
+		map.setPosition(LUGOJ, 165, 379);
+		map.setPosition(MEHADIA, 168, 339);
+		map.setPosition(NEAMT, 406, 537);
+		map.setPosition(ORADEA, 131, 571);
+		map.setPosition(PITESTI, 320, 368);
+		map.setPosition(RIMNICU_VILCEA, 233, 410);
+		map.setPosition(SIBIU, 207, 457);
+		map.setPosition(TIMISOARA, 94, 410);
+		map.setPosition(URZICENI, 456, 350);
+		map.setPosition(VASLUI, 509, 444);
+		map.setPosition(ZERIND, 108, 531);
 	}
 }
